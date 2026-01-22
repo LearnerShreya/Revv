@@ -1,7 +1,7 @@
 
 # REVV – Intelligent Sales CRM for HSR Motors
 
-**Author:** Shreya Singh  
+**Name:** Shreya Singh  
 **College ID:** 2221410  
 **Date:** January 21, 2026  
 
