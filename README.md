@@ -1,5 +1,3 @@
-# Revv
-
 
 # REVV – Intelligent Sales CRM for HSR Motors
 
