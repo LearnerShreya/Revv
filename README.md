@@ -76,6 +76,7 @@ Dashboards visualize conversion rates by source, sales rep performance, and funn
 
 All product thinking and design artifacts are documented below:
 
-- Case Study: https://www.notion.so/Case-Study-2efe9887d82980458b65dfbcd24328ac  
-- Design Docs: https://www.notion.so/Design-Docs-2efe9887d82980708bc0c625fa9e48a8  
-- Product Requirements Document: https://www.notion.so/Product-Requirements-Document-PRD-2efe9887d82980b48678c2d2d11030ac  
+- Case Study: [View Case Study](https://www.notion.so/Case-Study-2efe9887d82980458b65dfbcd24328ac)
+- Design Docs: [View Design Docs](https://www.notion.so/Design-Docs-2efe9887d82980708bc0c625fa9e48a8)
+- Product Requirements Document: [View PRD](https://www.notion.so/Product-Requirements-Document-PRD-2efe9887d82980b48678c2d2d11030ac)
+
